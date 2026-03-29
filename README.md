@@ -41,3 +41,18 @@ Key-Geo-Elements/
     ├── mask_00001.png
     ├── mask_00002.png
     └── ...
+```
+
+
+
+
+## Contact and Citation
+
+```bibtex
+@article{jin2026target,
+  title={Target-Oriented Formulation for Extracting Key Geospatial Elements under Extreme Class Imbalance},
+  author={Jin, JiaLi and Yong, Xi and Sun, HongLin and Wang, Sai and Zhang, PeiYu and Zheng, ZeLong and He, ZhaoFeng and Li, Qi and Sun, ZheNan and Fu, Jing},
+  journal={Electronics},
+  year={2026},
+  publisher={MDPI}
+}
