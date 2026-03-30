@@ -4,6 +4,10 @@ This is the official dataset repository for the paper: **"Target-Oriented Formul
 
 ## 📖 Introduction
 Remote sensing semantic segmentation often struggles with severe pixel-level class imbalance. To address this, we construct a large-scale remote sensing dataset containing **10,482 high-resolution image tiles**. This dataset exhibits a severe long-tailed distribution, designed to benchmark semantic segmentation models under extreme class imbalance using a target-oriented formulation.
+<img width="791" height="394" alt="image" src="https://github.com/user-attachments/assets/a150d0b8-8c47-4aaf-a6dc-3873c2f30cfd" />
+
+Representative visualization of the four key geospatial elements. The top row displays the original RGB images (256 × 256), and the bottom row shows the corresponding ground truth masks. From left to right, the samples showcase scenes dominated by: (Col 1) Cultivated Land (Pink); (Col 2) Buildings (Red); (Col 3) Water (Blue); and (Col 4) Nursery (Green).
+
 
 ## 📊 Dataset Characteristics
 * **Total Images:** 10,482 tiles
